@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mischuma
 - 👀 I’m interested in Content Management Systems
-- I’m currently learning HTML and java
+- I’m currently learning HTML, CSS, and Python
 - reach me: schumacher.m3@gmail.com
 - Pronouns:he/him
 
